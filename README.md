@@ -18,3 +18,8 @@ Repositório para o estudo de Java. :coffee:
 | Number | Name | Platform | Finished | Author |
 | :---: | :--- | :---: | :---: | :---: |
 | 01 | [(Java) Algoritmos](http://www.brasilmaisti.com.br/index.php/pt-br/cursos-online/dashboard-cursos/12-java-algoritmos)|[Brasil Mais TI](http://www.brasilmaisti.com.br/index.php/pt-br/)| [  ] |`Cláudia Werlich`| [cursos-java-brasilmaisti/Algoritmos](https://github.com/pliniopereira/cursos-java-brasilmaisti/tree/master/Algoritmos) 
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
